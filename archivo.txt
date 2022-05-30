@@ -1,0 +1,2 @@
+Creando archivo e ingresando texto inmediatamente
+con el comando ""[Dcat >"
